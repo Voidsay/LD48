@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6d1878bd67f34394b9f934dd9bedcccf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Northrup
+  fontNames:
+  - Northrup
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7c972ab1a4a3583f6aed9f23657fa58a, type: 3}
+  - {fileID: 12800000, guid: cc4facfafc36baa43ad6924d9be2808c, type: 3}
+  - {fileID: 12800000, guid: 852f421e400b7c30e8116179986aa7e2, type: 3}
+  - {fileID: 12800000, guid: c272a08e9bde376d89c0ec1f6c2bb7a0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
